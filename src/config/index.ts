@@ -25,10 +25,10 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Farah Abdelmajid",
+    specialty: "Web Developer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Software Engineer based in Algiers, Algeria. I specialize in UI design, web development and maintenance.",
     email: "example@email.com",
   },
   experience: [
