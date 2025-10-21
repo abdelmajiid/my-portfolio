@@ -6,21 +6,19 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer based in Algiers, Algeria. I specialize in UI design, web development and maintenance.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/Abdelmajid-small.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/abdelmajid-farah" },
+    { text: "Github", href: "https://github.com/abdelmajiid" },
+    { text: "Facebook", href: "https://web.facebook.com/lin.ber.942" },
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://abdelmajid-farah.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
@@ -28,8 +26,8 @@ export const SITE_CONTENT: SiteContent = {
     name: "Farah Abdelmajid",
     specialty: "Web Developer",
     summary:
-      "Software Engineer based in Algiers, Algeria. I specialize in UI design, web development and maintenance.",
-    email: "example@email.com",
+      "Software Engineer based in Bordj-el-Kiffan, Algiers, Algeria. I specialize in UI design, web development and maintenance.",
+    email: "farahabdelmajiid@gmail.com",
   },
   experience: [
     {
@@ -89,9 +87,9 @@ export const SITE_CONTENT: SiteContent = {
     description: `
       Hi, I’m Abdelmajid Farah, a passionate Web Developer . With a strong background in front-end web technologies, I thrive in the intersection where creativity meets technology.
       Skilled across various platforms and languages, with a strong ability to adapt and quickly learn new technologies
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from responsive web designs to complete web applications, all with a focus on performance, security, and scalability.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/Abdelmajid.jpg",
   },
 };
 
