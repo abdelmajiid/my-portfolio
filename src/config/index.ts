@@ -29,6 +29,32 @@ export const SITE_CONTENT: SiteContent = {
       "Software Engineer based in Bordj el Kiffan, Algiers, Algeria. I specialize in UI design, web development and maintenance.",
     email: "farahabdelmajiid@gmail.com",
   },
+  education: [
+    {
+      university: "Abdelhamid Mehri - University of Constantine 2",
+      speciality: "Software Engineering",
+      degree: "Licence Degree",
+      startDate: "Sep 2018",
+      endDate: "Juin 2021",
+      summary: [
+        "Acquired a solid foundation in software development, algorithms, data structures, and computer systems.",
+        "Gained practical experience through projects, applying theoretical knowledge to real-world scenarios.",
+        "Developed problem-solving skills and the ability to work collaboratively in team environments.",
+      ],
+    },
+    {
+      university: "University of Science & Technology Houari Boumediene (USTHB) - University of Algiers",
+      speciality: "Bioinformatics",
+      degree: "Master's Degree",
+      startDate: "Sep 2021",
+      endDate: "Juin 2023",
+      summary: [
+        "Specialized in the interdisciplinary field of bioinformatics, combining biology, computer science, and statistics.",
+        "Learned to analyze and interpret biological data using computational tools and techniques.",
+        "Gained expertise in areas such as genomics, proteomics, and systems biology, with a focus on developing algorithms and software for biological research.",
+      ],
+    },
+  ],
   experience: [
     {
       company: "Pharmacy Mecheri",
