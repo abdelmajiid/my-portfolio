@@ -8,6 +8,7 @@ export const SITE_CONFIG: SiteConfig = {
   lang: "en",
   siteLogo: "/Abdelmajid-small.jpg",
   navLinks: [
+    { text: "Education", href: "#education" },
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
